@@ -1,0 +1,53 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Food & Taste Recipe",
+        "details": "Recipe website with user auth and routing",
+        "img": "https://i.ibb.co/MMG9vqV/Screenshot-25.jpg",
+        "live": "https://food-and-taste-recipe.web.app/",
+        "client": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-studentabusayeed",
+        "server": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-studentabusayeed"
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "name": "Toy Emporium",
+        "details": "Toy marketplace with user auth and CRUD",
+        "img": "https://i.ibb.co/cxJq8Ms/Screenshot-29.jpg",
+        "live": "https://toy-project-client-ba3c3.web.app/",
+        "client": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-studentabusayeed",
+        "server": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-studentabusayeed"
+    },
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "name": "Music School",
+        "details": "Course marketplace with dashboards",
+        "img": "https://i.ibb.co/wBnCfh0/music-school.jpg",
+        "live": "https://music-school-fa857.web.app/",
+        "client": "https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-studentabusayeed",
+        "server": "https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-studentabusayeed"
+    },
+    {
+        "_id": "64301123f5a7e52ce1e8fa68",
+        "name": "Geometry Genius",
+        "details": "Integrate Vanilla JavaScript",
+        "img": "https://i.ibb.co/KjvxyGt/Screenshot-20.jpg",
+        "live": "https://chic-tarsier-6525c9.netlify.app/",
+        "client": "https://github.com/programming-hero-web-course2/b7a5-geometry-genius-assignment-studentabusayeed"
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "AI Universe Hub",
+        "details": "Using JavaScript and API",
+        "img": "https://i.ibb.co/TPXN5Vw/Screenshot-21.jpg",
+        "live": "https://starlit-crumble-e89da6.netlify.app/",
+        "client": "https://github.com/programming-hero-web-course2/b7a6-ai-universe-assignment-studentabusayeed"
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "Network-Hub",
+        "details": "Using Basic React and React Router",
+        "img": "https://i.ibb.co/RTKh2xm/Screenshot-23.jpg",
+        "live": "https://splendid-souffle-671a5a.netlify.app/",
+        "client": "https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-studentabusayeed"
+    }
+]
