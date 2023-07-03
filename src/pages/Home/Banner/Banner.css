@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+    .img-animation {
+        width: 200px;
+        height: 200px;
+        margin-top: 10px;
+    }
+    .hello {
+        text-align: center;
+    }
+}

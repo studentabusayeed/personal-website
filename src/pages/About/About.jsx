@@ -4,14 +4,14 @@ import './About.css';
 
 const About = () => {
     return (
-        <div className='bg-slate-700 pb-20'>
+        <div className='bg-slate-700 pb-32'>
             <div>
-                <div className='pt-4 mx-32'>
+                <div className='pt-4 md:mx-32 about-item'>
                     <h3 className='font-bold text-yellow-100 text-3xl mb-4'>About me</h3>
                 </div>
                 <hr className='mb-8' />
-                <div className='flex justify-center gap-20'>
-                    <div className='w-1/2'>
+                <div className='md:flex justify-center gap-20'>
+                    <div className='md:w-1/2 about-item'>
                         <div>
                             <h3 className='font-semibold text-yellow-100 text-3xl mb-1 mt-8'>Front End Developer</h3>
                             <hr className='w-6/12' />
@@ -26,8 +26,8 @@ const About = () => {
                             <h4 className='text-1xl font-bold text-cyan-200 mt-1'>Address: Chittagong, Bangladesh</h4>
                         </div>
                     </div>
-                    <div className='w-3/12'>
-                        <img className='about-img' src={img} alt="" />
+                    <div className='md:w-3/12 text-center about-img mx-auto pt-5'>
+                        <img className='' src={img} alt="" />
                     </div>
                 </div>
             </div>
