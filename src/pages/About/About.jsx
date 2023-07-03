@@ -26,8 +26,8 @@ const About = () => {
                             <h4 className='text-1xl font-bold text-cyan-200 mt-1'>Address: Chittagong, Bangladesh</h4>
                         </div>
                     </div>
-                    <div className='md:w-3/12 text-center about-img mx-auto pt-5'>
-                        <img className='' src={img} alt="" />
+                    <div className='md:w-3/12 text-center about-img pt-5'>
+                        <img className='rounded-lg' src={img} alt="" />
                     </div>
                 </div>
             </div>
